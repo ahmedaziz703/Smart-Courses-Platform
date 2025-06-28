@@ -36,8 +36,8 @@
     <td><img src="https://i.postimg.cc/br6VQ8FQ/image.png" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="https://i.postimg.cc/Y9zsCQ6D/image.png" width="100%"></td>
     <td><img src="https://i.postimg.cc/PfK7GzrP/image.png" width="100%"></td>
+    <td><img src="https://i.postimg.cc/Y9zsCQ6D/image.png" width="100%"></td>
   </tr>
 </table>
 
